@@ -11,7 +11,7 @@ class Functions:
 
     @staticmethod
     def saysth(object):
-        return f"You've just say {object[1]}" , f"But you should say it fucking loud: {object[1].upper()}"
+        return ('[SERVER RESPONSE]',"You've just say {object[1]}" , f"But you should say it fucking loud: {object[1].upper()}")
     
     @staticmethod
     def add(object):
